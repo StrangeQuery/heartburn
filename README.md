@@ -387,7 +387,7 @@ same loader, so a program runs in `ekg` exactly as it does in `burn`.
 You can also do all of this in a browser with [Cardigan](https://lab.strangequery.com/cardigan/). It uses the same
 assembler and the same machine, and it draws the machine as it runs.
 
-For more information about CARDIAC programming see [The CARDIAC Archive](https://lab.strangequery.com/cardiac) at [Strange Query](https://lab.strangequery.com).
+For more information about CARDIAC programming see [The CARDIAC Archive](https://lab.strangequery.com/cardiac/) at [Strange Query](https://lab.strangequery.com).
 
 
 ## License
